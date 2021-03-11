@@ -4,363 +4,363 @@
     "link": "c2569626.html",
     "name": "General",
     "parentLiId": null,
-    "id": "67b3ec75-b35d-44c9-a516-431a71edde9f"
+    "id": "466b0665-9f5c-48fb-a3d3-428c78ae5a52"
   },
   {
     "tagName": "a",
     "link": "c2569659.html",
     "name": "Software Overview",
-    "parentLiId": "67b3ec75-b35d-44c9-a516-431a71edde9f",
-    "id": "b7c61ffe-75a7-405b-a018-2ad73a0770c6"
+    "parentLiId": "466b0665-9f5c-48fb-a3d3-428c78ae5a52",
+    "id": "f0f57459-61ca-4e82-b2ec-bc3d805122cf"
   },
   {
     "tagName": "a",
     "link": "c2572017.html",
     "name": "How the EdgeRover App Works",
-    "parentLiId": "67b3ec75-b35d-44c9-a516-431a71edde9f",
-    "id": "390c7534-3166-43ce-b95b-6657d6864e97"
+    "parentLiId": "466b0665-9f5c-48fb-a3d3-428c78ae5a52",
+    "id": "8eaca399-077a-43c3-b7a1-93da6606202b"
   },
   {
     "tagName": "a",
     "link": "c2569816.html",
     "name": "Minimum System Requirements",
-    "parentLiId": "67b3ec75-b35d-44c9-a516-431a71edde9f",
-    "id": "168a85d0-dc3c-47b5-875e-f14017eef1a0"
+    "parentLiId": "466b0665-9f5c-48fb-a3d3-428c78ae5a52",
+    "id": "bea48c82-fb77-444f-a5a4-0a425c3c65cb"
   },
   {
     "tagName": "a",
     "link": "c2569851.html",
     "name": "Using the EdgeRover App",
     "parentLiId": null,
-    "id": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84"
+    "id": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a"
   },
   {
     "tagName": "a",
     "link": "c2556528.html",
     "name": "Browse",
-    "parentLiId": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84",
-    "id": "0bdd4cef-760d-4401-9504-8a43d1b7c729"
+    "parentLiId": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a",
+    "id": "9c807c96-152a-474a-a6cd-480cb25c94e0"
   },
   {
     "tagName": "a",
     "link": "c2569665.html",
     "name": "Widgets",
-    "parentLiId": "0bdd4cef-760d-4401-9504-8a43d1b7c729",
-    "id": "80ac6c5f-74d1-479e-84e7-f2a86b4f3edf"
+    "parentLiId": "9c807c96-152a-474a-a6cd-480cb25c94e0",
+    "id": "c49f1594-0a83-4c01-bdc8-1bd782a49cd6"
   },
   {
     "tagName": "a",
     "link": "c2569702.html",
     "name": "Categories",
-    "parentLiId": "0bdd4cef-760d-4401-9504-8a43d1b7c729",
-    "id": "c59dc372-f823-45b8-a8cb-e1b09e2c9f2a"
+    "parentLiId": "9c807c96-152a-474a-a6cd-480cb25c94e0",
+    "id": "8fd5f330-25b1-4f72-83ae-d63e2ed20e95"
   },
   {
     "tagName": "a",
     "link": "c2569705.html",
     "name": "Sources",
-    "parentLiId": "0bdd4cef-760d-4401-9504-8a43d1b7c729",
-    "id": "d70f0f9d-940c-4bd3-b2f6-160c36c60c26"
+    "parentLiId": "9c807c96-152a-474a-a6cd-480cb25c94e0",
+    "id": "1316407a-7e3f-435f-9620-3d143ba64198"
   },
   {
     "tagName": "a",
     "link": "c2569858.html",
     "name": "Collections",
-    "parentLiId": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84",
-    "id": "f43b9c9f-84d4-4e26-91fe-903541affb3c"
+    "parentLiId": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a",
+    "id": "a06b7b88-5cbd-4681-aba7-82d49970f937"
   },
   {
     "tagName": "a",
     "link": "c2556478.html",
     "name": "Search",
-    "parentLiId": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84",
-    "id": "f712bf95-703f-4f33-9cd1-6380df730c37"
+    "parentLiId": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a",
+    "id": "0fb12929-4b6c-4432-872e-6db128c1bf36"
   },
   {
     "tagName": "a",
     "link": "c2556481.html",
     "name": "Searching for Content",
-    "parentLiId": "f712bf95-703f-4f33-9cd1-6380df730c37",
-    "id": "36a3f77a-3ba6-452e-a1d8-dd2d19f9684b"
+    "parentLiId": "0fb12929-4b6c-4432-872e-6db128c1bf36",
+    "id": "a68d685d-4425-4ae3-9153-84ab24e94025"
   },
   {
     "tagName": "a",
     "link": "c2556484.html",
     "name": "Working with Search Results",
-    "parentLiId": "f712bf95-703f-4f33-9cd1-6380df730c37",
-    "id": "6b961697-1528-4f51-878c-0336c066ca93"
+    "parentLiId": "0fb12929-4b6c-4432-872e-6db128c1bf36",
+    "id": "7dd2986e-f1d7-42c6-bd46-2901212657fd"
   },
   {
     "tagName": "a",
     "link": "c2556307.html",
     "name": "Manage Sources",
-    "parentLiId": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84",
-    "id": "6fa590e0-5e53-4146-929e-d314756e44f4"
+    "parentLiId": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a",
+    "id": "b242b48c-117d-4c09-ade9-30e0f796d230"
   },
   {
     "tagName": "a",
     "link": "c2556309.html",
     "name": "Add External Storage",
-    "parentLiId": "6fa590e0-5e53-4146-929e-d314756e44f4",
-    "id": "cc23bc50-d076-4336-bba8-d8d4c1037893"
+    "parentLiId": "b242b48c-117d-4c09-ade9-30e0f796d230",
+    "id": "f1e4e8e1-8f2c-4cb4-a87e-bb947b30eba4"
   },
   {
     "tagName": "a",
     "link": "c2556315.html",
     "name": "Add Social",
-    "parentLiId": "6fa590e0-5e53-4146-929e-d314756e44f4",
-    "id": "0a7c55c3-18f4-4845-9730-397636a868c3"
+    "parentLiId": "b242b48c-117d-4c09-ade9-30e0f796d230",
+    "id": "0cae0d2c-dbfa-4153-b8f8-073ec778ac00"
   },
   {
     "tagName": "a",
     "link": "c2556313.html",
     "name": "Add Cloud",
-    "parentLiId": "6fa590e0-5e53-4146-929e-d314756e44f4",
-    "id": "06107373-01ba-4691-b5dc-ce2667cad64c"
+    "parentLiId": "b242b48c-117d-4c09-ade9-30e0f796d230",
+    "id": "c3af7abb-17fa-4195-9700-f4b5433ad49a"
   },
   {
     "tagName": "a",
     "link": "c2572184.html",
     "name": "Manage Devices",
-    "parentLiId": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84",
-    "id": "249c2f19-2dc3-4cf4-8098-35ea8f39a30d"
+    "parentLiId": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a",
+    "id": "828b5ea7-b4e6-4a38-9b0d-48b3b3e267f6"
   },
   {
     "tagName": "a",
     "link": "c2556435.html",
     "name": "Catalog",
-    "parentLiId": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84",
-    "id": "b314351e-1adb-490f-bf54-c1d222cfc6ae"
+    "parentLiId": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a",
+    "id": "07e92477-f025-4950-a462-13e30cebbf80"
   },
   {
     "tagName": "a",
     "link": "c2556443.html",
     "name": "Catalog Status",
-    "parentLiId": "b314351e-1adb-490f-bf54-c1d222cfc6ae",
-    "id": "ee0a936c-aae4-4e3f-b8d5-c3d6ce030db7"
+    "parentLiId": "07e92477-f025-4950-a462-13e30cebbf80",
+    "id": "21ad3618-3439-4f80-8ae5-4daad42a87f2"
   },
   {
     "tagName": "a",
     "link": "c2556458.html",
     "name": "What Should I Catalog?",
-    "parentLiId": "b314351e-1adb-490f-bf54-c1d222cfc6ae",
-    "id": "6744fd45-f3db-4575-b02d-dde87ed31255"
+    "parentLiId": "07e92477-f025-4950-a462-13e30cebbf80",
+    "id": "0700e974-15bd-4267-a55d-afa5dea71c3c"
   },
   {
     "tagName": "a",
     "link": "c2569869.html",
     "name": "Single Item View",
-    "parentLiId": "4b6cd7c5-79ec-40a4-aec6-8054a266fd84",
-    "id": "89d1292f-a80a-4b1e-9e46-5f7d47f87173"
+    "parentLiId": "fa9ce452-ef88-4572-9f1b-50c9a32cab1a",
+    "id": "7c300dd5-1792-4ec4-beb2-c1a96b95e568"
   },
   {
     "tagName": "a",
     "link": "c2569917.html",
     "name": "Open",
-    "parentLiId": "89d1292f-a80a-4b1e-9e46-5f7d47f87173",
-    "id": "3ea4c68b-9f7e-4d9f-ba26-57db67c0fb7e"
+    "parentLiId": "7c300dd5-1792-4ec4-beb2-c1a96b95e568",
+    "id": "f23eccac-3707-40bc-8222-d562b53d9132"
   },
   {
     "tagName": "a",
     "link": "c2569920.html",
     "name": "Show Location",
-    "parentLiId": "89d1292f-a80a-4b1e-9e46-5f7d47f87173",
-    "id": "bc17989e-22e4-41c0-931a-aea344255c63"
+    "parentLiId": "7c300dd5-1792-4ec4-beb2-c1a96b95e568",
+    "id": "51c06651-0e69-4a13-99a5-1421c85a2c1d"
   },
   {
     "tagName": "a",
     "link": "c2569923.html",
     "name": "Add to Collection",
-    "parentLiId": "89d1292f-a80a-4b1e-9e46-5f7d47f87173",
-    "id": "1da10299-e9c4-494e-9261-be573ee198b0"
+    "parentLiId": "7c300dd5-1792-4ec4-beb2-c1a96b95e568",
+    "id": "3fcdc22b-65ed-4574-80bb-181f81728902"
   },
   {
     "tagName": "a",
     "link": "c2569926.html",
     "name": "Fullscreen",
-    "parentLiId": "89d1292f-a80a-4b1e-9e46-5f7d47f87173",
-    "id": "afeaf79e-2018-4b44-a60a-c9d194c509e1"
+    "parentLiId": "7c300dd5-1792-4ec4-beb2-c1a96b95e568",
+    "id": "420c6aab-ff21-4e3f-a46b-d9d6b81957fb"
   },
   {
     "tagName": "a",
     "link": "c2569929.html",
     "name": "More Options",
-    "parentLiId": "89d1292f-a80a-4b1e-9e46-5f7d47f87173",
-    "id": "b9a207b7-e1e1-4820-8e3f-dc7881865dc4"
+    "parentLiId": "7c300dd5-1792-4ec4-beb2-c1a96b95e568",
+    "id": "522ff58a-6f9e-435c-9509-6ea82496ae47"
   },
   {
     "tagName": "a",
     "link": "c2569646.html",
     "name": "Settings",
     "parentLiId": null,
-    "id": "15dffb56-7662-4e74-bf8b-a9831af9bfe3"
+    "id": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f"
   },
   {
     "tagName": "a",
     "link": "c2569886.html",
     "name": "Account Settings",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "fa88fcb8-cfe9-446f-b395-ced3f0a38d0f"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "79b0e9eb-d311-4467-9a72-2c1ee6d55894"
   },
   {
     "tagName": "a",
     "link": "c2569890.html",
     "name": "Language",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "0fe40c94-8fec-43ee-a4ca-554d89a01062"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "bb78de4d-770d-4192-b687-047c370bb929"
   },
   {
     "tagName": "a",
     "link": "c2569893.html",
     "name": "App Settings",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "7d59490e-3315-4ea8-b406-9cff255b9ba3"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "eac7e1b6-1c09-43e8-8a1b-5b3575e954d9"
   },
   {
     "tagName": "a",
     "link": "c2569896.html",
     "name": "Theme",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "46f02434-edc4-41c6-a5bf-bba719c24eed"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "6322adeb-aaa6-4ba0-a4c9-a50b9fa4d7c7"
   },
   {
     "tagName": "a",
     "link": "c2569899.html",
     "name": "Privacy",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "d37ecce3-ceb7-4404-9969-bf66771e584c"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "d76697ca-d983-4fed-ab98-f09e90a8676b"
   },
   {
     "tagName": "a",
     "link": "c2569902.html",
     "name": "Help ",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "16727f5b-5c1d-412d-b379-92c5ca257625"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "19395d40-255f-458a-b4cc-892bb0794931"
   },
   {
     "tagName": "a",
     "link": "c2569905.html",
     "name": "What's New",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "f9e96777-d055-4639-b995-7ff72fcbb29f"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "a3244f7b-dac4-481a-925d-a9b301d72115"
   },
   {
     "tagName": "a",
     "link": "c2569908.html",
     "name": "Legal",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "0c979ba0-4f57-415c-a11c-103a2325690d"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "b3dab7ec-d0ee-4b2e-a9ba-1d006cfa9b3f"
   },
   {
     "tagName": "a",
     "link": "c2569911.html",
     "name": "Product Tour",
-    "parentLiId": "15dffb56-7662-4e74-bf8b-a9831af9bfe3",
-    "id": "077900a3-b132-493f-a136-cfe0d5397ed8"
+    "parentLiId": "4c8b72b7-92d3-4907-bfeb-5eff0caedb5f",
+    "id": "36ea075b-c3a7-42a2-982e-15eeb44648bd"
   },
   {
     "tagName": "a",
     "link": "c2569652.html",
     "name": "Help and Support",
     "parentLiId": null,
-    "id": "35604bc0-2585-4982-9692-dfcec95b7598"
+    "id": "0665ada3-6bf9-4ee7-8f5b-dcaa1219da99"
   },
   {
     "tagName": "a",
     "link": "c2572034.html",
     "name": "Helpful Resources",
-    "parentLiId": "35604bc0-2585-4982-9692-dfcec95b7598",
-    "id": "fa6c4018-c073-4e75-9fb0-6c9f7346cec1"
+    "parentLiId": "0665ada3-6bf9-4ee7-8f5b-dcaa1219da99",
+    "id": "91f31d7b-a061-48e8-aa3c-b5c2ab4cbc20"
   },
   {
     "tagName": "a",
     "link": "c2572104.html",
     "name": "Frequently Asked Questions (FAQ)",
-    "parentLiId": "35604bc0-2585-4982-9692-dfcec95b7598",
-    "id": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba"
+    "parentLiId": "0665ada3-6bf9-4ee7-8f5b-dcaa1219da99",
+    "id": "e65080a2-c793-4758-9386-4a4b5fc93088"
   },
   {
     "tagName": "a",
     "link": "c2573296.html",
     "name": "Why is the cataloging process taking so long?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "ba302cb7-d3a7-4494-aed2-91edcf8748b5"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "fa660be8-82bd-4468-b8e4-5b22b816411d"
   },
   {
     "tagName": "a",
     "link": "c2573306.html",
     "name": "Why has the cataloging process paused?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "dcee5b0d-8714-41c5-98ed-6c2938915314"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "d6b940e8-d762-4fd3-96c3-707d49a45a66"
   },
   {
     "tagName": "a",
     "link": "c2573309.html",
     "name": "Why does my computer slow down when the EdgeRover app is running?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "3f9131de-d752-4397-beeb-1c2282dd76d3"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "9a25c6ca-9439-4625-bffd-66ef2890e5b1"
   },
   {
     "tagName": "a",
     "link": "c2572125.html",
     "name": "Why is the EdgeRover app using large amounts of internal storage space?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "67c45c63-c3b6-42b1-8c0e-8cd19d5f3c34"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "c3cf4088-70d5-45c5-bf08-0cb8b432fbac"
   },
   {
     "tagName": "a",
     "link": "c2572128.html",
     "name": "Why are some of my videos and audio files not playing?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "55401b87-0c72-405c-a8a7-1c47f5e24f9a"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "52f38ce6-46ea-434c-af08-25610ce766d6"
   },
   {
     "tagName": "a",
     "link": "c2572131.html",
     "name": "How do I update the EdgeRover app to the latest version?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "a8cc5abf-9cdc-41fc-a14d-88dc2365d985"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "a7ee2fb7-85b4-49b6-825a-496353dbd0fe"
   },
   {
     "tagName": "a",
     "link": "c2573312.html",
     "name": "Will my files be stored in the cloud?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "bb176986-fa7a-491a-972c-74803af374c3"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "a7e05429-4328-4684-a002-090791c8ed8c"
   },
   {
     "tagName": "a",
     "link": "c2573333.html",
     "name": "Which storage devices can I use with the EdgeRover app?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "766a7418-3abc-483e-97c4-7658ed51a23b"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "e0dd40c5-caa0-435d-b313-16987a1a85c7"
   },
   {
     "tagName": "a",
     "link": "c2573332.html",
     "name": "How much do these services and features cost?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "c1f78abb-e48b-4db9-947a-d4d8e922d5a9"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "d578c853-0c99-4ac4-9bb6-6c94383e54a9"
   },
   {
     "tagName": "a",
     "link": "c2573334.html",
     "name": "Does the EdgeRover app work with other products and devices?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "0e95178f-b0ad-4c12-b2dd-3c0bb23436ee"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "76123ada-bc1f-467c-a312-339aa4c0a73b"
   },
   {
     "tagName": "a",
     "link": "c2573341.html",
     "name": "Can I search and browse my content when the storage device is not connected?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "214d9deb-e61a-4447-b8af-d682d897c697"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "ba4eb902-4779-45f9-8fb8-387d04aa0dc6"
   },
   {
     "tagName": "a",
     "link": "c2573344.html",
     "name": "Can I delete files from my storage devices after I have cataloged them?",
-    "parentLiId": "e1f32ab6-76e7-4981-b815-1cfc42fa00ba",
-    "id": "dd279708-f5fe-456d-a935-e141ccaf23b4"
+    "parentLiId": "e65080a2-c793-4758-9386-4a4b5fc93088",
+    "id": "14776611-f6c3-4779-8ee4-d30bb9e6c873"
   }
 ]
