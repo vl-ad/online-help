@@ -1,4 +1,4 @@
-{
+link({
   "c2569626.html": "General",
   "c2569659.html": "Software Overview",
   "c2572017.html": "How the EdgeRover App Works",
@@ -51,4 +51,4 @@
   "c2573334.html": "Does the EdgeRover app work with other products and devices?",
   "c2573341.html": "Can I search and browse my content when the storage device is not connected?",
   "c2573344.html": "Can I delete files from my storage devices after I have cataloged them?"
-}
+})
